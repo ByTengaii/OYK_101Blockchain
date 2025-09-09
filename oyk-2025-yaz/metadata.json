@@ -1,0 +1,25 @@
+
+{
+  "name": "gagir NFT",
+  "description": "This is my first NFT created on Ethereum blockchain",
+  "image": "ipfs://bafkreieq2ptstdd6sigqvkjzi43cck6hha2oc27yy5a4zte5a2jngx7j7y",
+  "external_url": "https://www.linkedin.com/in/agirgurkan/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "gagir's Fantasy"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "gagir"
+    }
+  ]
+}
