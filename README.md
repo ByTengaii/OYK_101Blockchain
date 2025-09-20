@@ -214,12 +214,6 @@ contract NumberGuess {
 
 Bu proje eğitim amaçlı olarak geliştirilmiştir. MIT lisansı altında dağıtılmaktadır.
 
-## 📞 İletişim
-
-- **Proje Sahibi**: OYK Blockchain Eğitimi
-- **E-posta**: [Eğitim ekibi e-postası]
-- **Discord**: [Topluluk Discord sunucusu]
-
 ## ⭐ Yıldızlamayı Unutmayın!
 
 Bu proje işinize yaradıysa, lütfen ⭐ vererek destekleyin!
@@ -245,5 +239,6 @@ Bu proje işinize yaradıysa, lütfen ⭐ vererek destekleyin!
 - **Block Explorer**: Etherscan
 
 ---
+
 
 Bu README, projedeki tüm bileşenleri kapsamlı bir şekilde açıklayarak, blockchain teknolojisi öğrenmek isteyen geliştiriciler için rehber niteliğindedir.
